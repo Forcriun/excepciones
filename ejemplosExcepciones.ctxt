@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ejemplosExcepciones
+comment0.text=\r\n\ Ejemplos\ del\ Bloque\ (II)\:\ captura\ y\ tratamiento.\ \r\n
+comment1.params=
+comment1.target=ejemplosExcepciones()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ejemplo1\r\n
+comment2.params=
+comment2.target=void\ ejemplo01()
+comment2.text=\r\n\ Ejemplo\ 01\ estructura\ y\ funcionamiento\ bloque\ try-catch.\r\n\ \r\n\ \ \ \ \ \ **mala\ praxis**\r\n\ \r\n\ \r\n
+comment3.params=
+comment3.target=void\ ejemplo02()
+comment3.text=\r\n\ Ejemplo\ 02\ estructura\ y\ funcionamiento\ bloque\ try-catch.\r\n\ \r\n\ \ \ \ \ \ **mala\ praxis**\r\n\ \r\n\ \r\n
+comment4.params=nombreDelArchivo
+comment4.target=void\ ejemplo03(java.lang.String)
+comment4.text=\r\n\ Ejemplo\ 01\ estructura\ y\ funcionamiento\ bloque\ try-catch.\r\n\ \r\n\ \ \ \ \ \ **mala\ praxis**\r\n\ \r\n\ Extracto\ modificado\ del\ metodo\ que\ teniamos\ en\ el\ analizador\ de\ accesos\r\n\ a\ un\ servidor.\ Le\ pasamos\ el\ nombre\ de\ un\ archivo\ en\ la\ carpeta\ del\ proyecto\r\n\ al\ scanner\ de\ forma\ que\ podamos\ ir\ analizando\ linea\ a\ linea\ la\ informacion\r\n\ en\ dicho\ archivo.\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ ejemplo04()
+comment5.text=\r\n\ Ejemplo\ 03\ finally,\ return\ y\ la\ ejecucion\ del\ programa.\r\n\ \r\n\ \ \ \ \ \ **Avanzado**\r\n\ \r\n\ \r\n
+numComments=6
